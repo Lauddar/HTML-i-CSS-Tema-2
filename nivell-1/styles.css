@@ -106,3 +106,23 @@
         width: 100%;
     }
 }
+
+@media only screen and (max-width: 600px) {
+
+    /* For mobile phones: */
+    .lightslategray {
+        flex-wrap: wrap;
+    }
+
+    .flex-container {
+        flex-wrap: wrap;
+    }
+
+    .col-50 {
+        width: 100%;
+    }
+
+    .col-15 {
+        width: 100%;
+    }
+}
