@@ -1,3 +1,4 @@
+/* For desktop: */
 .main {
     max-width: 1200px;
     margin: 0 auto;
@@ -87,4 +88,21 @@
 
 .col-70 {
     width: 70%;
+}
+
+@media only screen and (max-width: 1115px) {
+
+    /* For tablet: */
+    .yellow {
+        background-color: yellow !important;
+        flex-wrap: wrap;
+    }
+
+    .col-30 {
+        width: 100%;
+    }
+
+    .col-70 {
+        width: 100%;
+    }
 }
