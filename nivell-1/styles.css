@@ -1,0 +1,90 @@
+.main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.black {
+    background-color: black;
+    padding: 8px;
+    margin: 12px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.lightslategray {
+    background-color: lightslategray;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+}
+
+.chocolate {
+    background-color: chocolate;
+    padding: 10px;
+    margin: 5px;
+}
+
+.slategray {
+    background-color: slategray;
+    padding: 5px;
+    margin: 5px;
+}
+
+.crimson {
+    background-color: crimson;
+    padding: 5px;
+    margin: 5px;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    padding: 5px;
+}
+
+.darkgoldenrod {
+    background-color: darkgoldenrod;
+    padding: 5px;
+    margin: 5px;
+}
+
+.darkblue {
+    background-color: darkblue;
+    padding: 5px;
+    margin: 5px;
+}
+
+.cornflowerblue {
+    background-color: cornflowerblue;
+    padding: 5px;
+    margin: 5px;
+}
+
+.firebrick {
+    background-color: firebrick;
+    padding: 5px;
+    margin: 5px;
+}
+
+.darkkhaki {
+    background-color: darkkhaki;
+    padding: 5px;
+    margin: 5px;
+}
+
+.col-15 {
+    width: 15%;
+}
+
+.col-30 {
+    width: 30%;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.col-70 {
+    width: 70%;
+}
